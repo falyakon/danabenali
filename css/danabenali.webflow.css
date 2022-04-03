@@ -1513,7 +1513,7 @@ figcaption {
 }
 
 .gallery-grid {
-  margin-bottom: 80px;
+  margin-bottom: 50px;
   grid-column-gap: 30px;
   grid-row-gap: 30px;
   grid-template-areas: ". . ."
